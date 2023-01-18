@@ -1,6 +1,6 @@
 <h1>Hi, I'm Luke! A curious learner and lover of security.
 
-<h2>👨‍💻 Python Projects:</h2>
+<h2>👨‍💻 Python Projects:</h2> https://github.com/Lukembou/Budget-Tracker
 
 <h2>📺 Popular YouTube Videos</h2>
 
